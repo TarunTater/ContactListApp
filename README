@@ -1,0 +1,18 @@
+This was a basic application developed to manage contact information. It supports the CRUD operations
+
+The following technologies were used -
+MEAN STACK - MongoDB, Express, AngularJS, NodeJS
+
+The following dependencies need to be installed using npm install
+      - express
+      - mongojs
+      - bodyParser
+
+The functionalities supported are -
+
+AddContact - Enter the details in the text boxes and click on save button to add contact.
+DeleteContact - Delete a contact from the list using delete contact button beside every entry.
+EditContact - Click on the edit contact button beside the entry, enter the new details in the text box
+              and click on update contact button.
+
+The dashboard shows all the contacts initially
